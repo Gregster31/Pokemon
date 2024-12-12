@@ -1,0 +1,247 @@
+{
+	"images": [
+		{
+			"name": "tiles",
+			"path": "./assets/images/tiles.png",
+			"width": 256,
+			"height": 16064
+		},
+		{
+			"name": "red",
+			"path": "./assets/images/red.png",
+			"width": 128,
+			"height": 192
+		},
+		{
+			"name": "green",
+			"path": "./assets/images/green.png",
+			"width": 128,
+			"height": 192
+		},
+		{
+			"name": "brendan",
+			"path": "./assets/images/brendan.png",
+			"width": 128,
+			"height": 192
+		},
+		{
+			"name": "trainer-may",
+			"path": "./assets/images/trainer-may.png",
+			"width": 128,
+			"height": 128
+		},
+		{
+			"name": "may",
+			"path": "./assets/images/may.png",
+			"width": 128,
+			"height": 192
+		},
+		{
+			"name": "title",
+			"path": "./assets/images/title.png",
+			"width": 512,
+			"height": 384
+		},
+		{
+			"name": "battle-background",
+			"path": "./assets/images/battle-background.png",
+			"width": 512,
+			"height": 288
+		},
+		{
+			"name": "battle-grass",
+			"path": "./assets/images/battle-grass.png",
+			"width": 265,
+			"height": 126
+		},
+		{
+			"name": "bulbasaur-front",
+			"path": "./assets/images/pokemon/front/BULBASAUR.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "bulbasaur-back",
+			"path": "./assets/images/pokemon/back/BULBASAUR.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "bulbasaur-icon",
+			"path": "./assets/images/pokemon/icons/BULBASAUR.png",
+			"width": 128,
+			"height": 64
+		},
+		{
+			"name": "charmander-front",
+			"path": "./assets/images/pokemon/front/CHARMANDER.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "charmander-back",
+			"path": "./assets/images/pokemon/back/CHARMANDER.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "charmander-icon",
+			"path": "./assets/images/pokemon/icons/CHARMANDER.png",
+			"width": 128,
+			"height": 64
+		},
+		{
+			"name": "squirtle-front",
+			"path": "./assets/images/pokemon/front/SQUIRTLE.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "squirtle-back",
+			"path": "./assets/images/pokemon/back/SQUIRTLE.png",
+			"width": 160,
+			"height": 160
+		},
+		{
+			"name": "squirtle-icon",
+			"path": "./assets/images/pokemon/icons/SQUIRTLE.png",
+			"width": 128,
+			"height": 64
+		}
+	],
+	"fonts": [
+		{
+			"name": "PowerRed",
+			"path": "./assets/fonts/PowerRed.ttf"
+		},
+		{
+			"name": "PowerRedBold",
+			"path": "./assets/fonts/PowerRedBold.ttf"
+		},
+		{
+			"name": "Pokemon",
+			"path": "./assets/fonts/Pokemon.ttf"
+		}
+	],
+	"sounds": [
+		{
+			"name": "battle-start",
+			"path": "./assets/sounds/music/battle-start.mp3",
+			"size": 1,
+			"volume": 0.1
+		},
+		{
+			"name": "battle-loop",
+			"path": "./assets/sounds/music/battle-loop.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battle-victory",
+			"path": "./assets/sounds/music/battle-victory.ogg",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "route",
+			"path": "./assets/sounds/music/route.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "title",
+			"path": "./assets/sounds/music/title.mp3",
+			"size": 1,
+			"volume": 0.1,
+			"loop": true
+		},
+		{
+			"name": "battle-damage",
+			"path": "./assets/sounds/effects/battle-damage.ogg",
+			"size": 2,
+			"volume": 0.2
+		},
+		{
+			"name": "battle-run",
+			"path": "./assets/sounds/effects/battle-run.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "experience-full",
+			"path": "./assets/sounds/effects/experience-full.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "experience-gain",
+			"path": "./assets/sounds/effects/experience-gain.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "heal",
+			"path": "./assets/sounds/effects/heal.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "low-health",
+			"path": "./assets/sounds/effects/low-health.mp3",
+			"size": 1,
+			"volume": 0.05,
+			"loop": true
+		},
+		{
+			"name": "menu-open",
+			"path": "./assets/sounds/effects/menu-open.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "player-bump",
+			"path": "./assets/sounds/effects/player-bump.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "pokemon-faint",
+			"path": "./assets/sounds/effects/pokemon-faint.ogg",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-choice",
+			"path": "./assets/sounds/effects/selection-choice.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "selection-move",
+			"path": "./assets/sounds/effects/selection-move.ogg",
+			"size": 5,
+			"volume": 0.2
+		},
+		{
+			"name": "charmander",
+			"path": "./assets/sounds/pokemon/CHARMANDER.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "bulbasaur",
+			"path": "./assets/sounds/pokemon/BULBASAUR.wav",
+			"size": 1,
+			"volume": 0.2
+		},
+		{
+			"name": "squirtle",
+			"path": "./assets/sounds/pokemon/SQUIRTLE.wav",
+			"size": 1,
+			"volume": 0.2
+		}
+	]
+}
