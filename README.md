@@ -1,3 +1,5 @@
 # Assignment 6 - Pokemon ⚡
 
-[Click here](https://vikramsinghmtl.github.io/420-5P6-Game-Programming/assignments/6-pokemon/) to view the assignment instructions on the course site.
+![6 Pokemon](https://github.com/user-attachments/assets/c55eda9a-babe-4b41-b398-023350ee896b)
+
+Based code provided by Vikram Singh
